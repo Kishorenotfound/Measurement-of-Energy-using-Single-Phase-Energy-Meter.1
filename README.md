@@ -1,5 +1,5 @@
-###Name : Kishore E
-###Reg no:212223080028
+### Name : Kishore E
+### Reg no:212223080028
 
 # Aim:
 To measure energy using Single Phase Energy Meter
