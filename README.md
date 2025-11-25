@@ -1,5 +1,3 @@
-### Name : Kishore E
-### Reg no:212223080028
 
 # Aim:
 To measure energy using Single Phase Energy Meter
@@ -52,13 +50,9 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 ## Output Waveform
 
 
+<img width="1085" height="609" alt="ENERGY METER" src="https://github.com/user-attachments/assets/69d15615-9e6e-4507-889f-615b050e8514" />
 
 
 ## Result
 
-
-
-
-
-
-
+Thus the energy has been measured using Single Phase Energy Meter.
